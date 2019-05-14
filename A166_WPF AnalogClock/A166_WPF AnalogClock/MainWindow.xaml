@@ -1,0 +1,14 @@
+﻿<Window x:Class="A166_WPF_AnalogClock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A166_WPF_AnalogClock"
+        mc:Ignorable="d"
+        Title="WPF Analog Clock" Width="350" Height="350" >
+  <Grid Margin="10">    
+    <Canvas Name="canvas1" Width="250" Height="250">
+      <Ellipse Name="aClock" Width="250" Height="250"/>
+    </Canvas>    
+  </Grid>
+</Window>

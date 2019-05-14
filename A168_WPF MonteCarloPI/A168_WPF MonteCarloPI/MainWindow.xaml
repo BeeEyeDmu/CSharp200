@@ -1,0 +1,20 @@
+﻿<Window x:Class="A168_WPF_MonteCarloPI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A168_WPF_MonteCarloPI"
+        mc:Ignorable="d"
+        Title="Finding PI" Height="495" Width="450">
+  <DockPanel>
+    <Grid Name="grid1" Margin="10" DockPanel.Dock="Top">
+      <Canvas Name="canvas1" Height="400" Width="400">
+        <Rectangle Stroke="Black" Width="400" Height="400" ></Rectangle>
+        <Ellipse Stroke="SlateBlue" Width="400" Height="400" ></Ellipse>
+      </Canvas>
+    </Grid>
+    <StatusBar DockPanel.Dock="Bottom" Background="White" Margin="20,0,20,10">      
+        <TextBlock Name="txtStatus"/>      
+    </StatusBar>
+  </DockPanel>
+</Window>

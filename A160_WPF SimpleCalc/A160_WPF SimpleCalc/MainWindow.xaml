@@ -1,0 +1,47 @@
+﻿<Window x:Class="A160_WPF_SimpleCalc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A160_WPF_SimpleCalc"
+        mc:Ignorable="d"
+        Title="간단한 계산기" Height="380" Width="320">
+
+  <StackPanel Margin="10">
+    <TextBox Margin="5" Height="60" Name="txtResult" FontSize="30" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom">0</TextBox>
+    <Grid Height="250" >
+      <Grid.RowDefinitions >
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition/>
+        <ColumnDefinition/>
+        <ColumnDefinition/>
+        <ColumnDefinition/>
+      </Grid.ColumnDefinitions>
+      <Button Grid.Row="0" Grid.Column="0" Margin="5" FontSize="16" Click="btn_Click">7</Button>
+      <Button Grid.Row="0" Grid.Column="1" Margin="5" FontSize="16" Click="btn_Click">8</Button>
+      <Button Grid.Row="0" Grid.Column="2" Margin="5" FontSize="16" Click="btn_Click">9</Button>
+      <Button Grid.Row="0" Grid.Column="3" Margin="5" FontSize="16" Click="btnOp_Click">+</Button>
+
+      <Button Grid.Row="1" Grid.Column="0" Margin="5" FontSize="16" Click="btn_Click">4</Button>
+      <Button Grid.Row="1" Grid.Column="1" Margin="5" FontSize="16" Click="btn_Click">5</Button>
+      <Button Grid.Row="1" Grid.Column="2" Margin="5" FontSize="16" Click="btn_Click">6</Button>
+      <Button Grid.Row="1" Grid.Column="3" Margin="5" FontSize="16" Click="btnOp_Click">-</Button>
+
+      <Button Grid.Row="2" Grid.Column="0" Margin="5" FontSize="16" Click="btn_Click">1</Button>
+      <Button Grid.Row="2" Grid.Column="1" Margin="5" FontSize="16" Click="btn_Click">2</Button>
+      <Button Grid.Row="2" Grid.Column="2" Margin="5" FontSize="16" Click="btn_Click">3</Button>
+      <Button Grid.Row="2" Grid.Column="3" Margin="5" FontSize="16" Click="btnOp_Click">×</Button>
+
+      <Button Grid.Row="3" Grid.Column="0" Margin="5" FontSize="16" Click="Dot_Click">.</Button>
+      <Button Grid.Row="3" Grid.Column="1" Margin="5" FontSize="16" Click="btn_Click">0</Button>
+      <Button Grid.Row="3" Grid.Column="2" Margin="5" FontSize="16" Click="Equal_Click">=</Button>
+      <Button Grid.Row="3" Grid.Column="3" Margin="5" FontSize="16" Click="btnOp_Click">÷</Button>
+    </Grid>
+  </StackPanel>
+
+</Window>
