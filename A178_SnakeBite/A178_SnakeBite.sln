@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A178_SnakeBite", "A178_SnakeBite\A178_SnakeBite.csproj", "{01F696EB-82BE-477A-9C59-B6F4B538CEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F696EB-82BE-477A-9C59-B6F4B538CEEA}.Debug|x86.ActiveCfg = Debug|x86
+		{01F696EB-82BE-477A-9C59-B6F4B538CEEA}.Debug|x86.Build.0 = Debug|x86
+		{01F696EB-82BE-477A-9C59-B6F4B538CEEA}.Release|x86.ActiveCfg = Release|x86
+		{01F696EB-82BE-477A-9C59-B6F4B538CEEA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D693820A-4EA1-4AFB-B0FF-EA3DA4D19422}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+﻿<Window x:Class="A178_SnakeBite.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="A178_SnakeBiteBite" KeyDown="Window_KeyDown" SizeToContent="WidthAndHeight">
+  <Grid Height="380" Width="480">
+    <Canvas Name="Canvas1" Background="LightSteelBlue">
+      <TextBlock Name="score" Text="Eggs = 0" Foreground="White" FontSize="14" Canvas.Left="200" Canvas.Top="20"/>
+      <TextBlock Name="time" Text="Time = 00:00:00" Foreground="White"  FontSize="14" Canvas.Left="270" Canvas.Top="20"/>
+    </Canvas>
+  </Grid>
+</Window>

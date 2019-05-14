@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A181_StudentPhoneBook", "A181_StudentPhoneBook\A181_StudentPhoneBook.csproj", "{0026F018-B3EF-4CF7-9B32-F9C1C4FC860A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0026F018-B3EF-4CF7-9B32-F9C1C4FC860A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0026F018-B3EF-4CF7-9B32-F9C1C4FC860A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0026F018-B3EF-4CF7-9B32-F9C1C4FC860A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0026F018-B3EF-4CF7-9B32-F9C1C4FC860A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F72F4A4-FEEC-463C-8619-85FDAA8E3308}
+	EndGlobalSection
+EndGlobal
