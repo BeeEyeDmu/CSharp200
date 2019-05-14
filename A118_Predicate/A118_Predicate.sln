@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A118_Predicate", "A118_Predicate\A118_Predicate.csproj", "{1E4C4854-F9E6-4154-899C-9B0AA6C7991A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4C4854-F9E6-4154-899C-9B0AA6C7991A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4C4854-F9E6-4154-899C-9B0AA6C7991A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4C4854-F9E6-4154-899C-9B0AA6C7991A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4C4854-F9E6-4154-899C-9B0AA6C7991A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D507F80-CC66-4937-AAD2-89E56A46CE64}
+	EndGlobalSection
+EndGlobal
