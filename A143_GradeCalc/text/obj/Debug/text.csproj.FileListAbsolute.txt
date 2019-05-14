@@ -1,0 +1,10 @@
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\obj\Debug\text.Form1.resources
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\bin\Debug\text.exe.config
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\bin\Debug\text.exe
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\bin\Debug\text.pdb
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\obj\Debug\text.exe
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\obj\Debug\text.pdb
+C:\Users\bikang\Dropbox\2018\InfoPub\Source\A117_GradeCalc\text\obj\Debug\text.csprojAssemblyReference.cache
