@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A020_RelationalOperators", "A020_RelationalOperator\A020_RelationalOperators.csproj", "{B99931D6-BBF0-4D16-9EE9-B1879EAA3058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99931D6-BBF0-4D16-9EE9-B1879EAA3058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99931D6-BBF0-4D16-9EE9-B1879EAA3058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99931D6-BBF0-4D16-9EE9-B1879EAA3058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99931D6-BBF0-4D16-9EE9-B1879EAA3058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F8A52B-89AE-4BA3-9666-E80C98B93863}
+	EndGlobalSection
+EndGlobal
