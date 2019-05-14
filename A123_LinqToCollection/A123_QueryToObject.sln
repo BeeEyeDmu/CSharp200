@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A123_QueryToObject", "A123_LinqToArray\A123_QueryToObject.csproj", "{4FDEC6F9-D265-4B99-9D48-830371357EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FDEC6F9-D265-4B99-9D48-830371357EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDEC6F9-D265-4B99-9D48-830371357EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDEC6F9-D265-4B99-9D48-830371357EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDEC6F9-D265-4B99-9D48-830371357EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966FB15E-571D-4014-B0E3-3F49AC5904A0}
+	EndGlobalSection
+EndGlobal
