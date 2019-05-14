@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A172_GraphWithChartControl", "A172_GraphWithChartControl\A172_GraphWithChartControl.csproj", "{99CB3822-5C05-4378-8332-BCC8F1E9F76E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CB3822-5C05-4378-8332-BCC8F1E9F76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CB3822-5C05-4378-8332-BCC8F1E9F76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CB3822-5C05-4378-8332-BCC8F1E9F76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CB3822-5C05-4378-8332-BCC8F1E9F76E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {061A4AB0-4431-4EC0-9591-FD4675D23B9D}
+	EndGlobalSection
+EndGlobal

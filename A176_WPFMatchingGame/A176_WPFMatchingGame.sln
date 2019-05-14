@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A176_WPFMatchingGame", "A176_WPFMatchingGame\A176_WPFMatchingGame.csproj", "{DE2055F9-068B-4161-A59C-4EB78E318828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2055F9-068B-4161-A59C-4EB78E318828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2055F9-068B-4161-A59C-4EB78E318828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2055F9-068B-4161-A59C-4EB78E318828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2055F9-068B-4161-A59C-4EB78E318828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B6AF533-9303-470A-B7DA-6311A4819F7E}
+	EndGlobalSection
+EndGlobal
